@@ -1,0 +1,7 @@
+app/code/community/Ultimate/ModuleCreator                                  app/code/community/Ultimate/ModuleCreator
+app/design/adminhtml/default/default/layout/ultimate_modulecreator.xml     app/design/adminhtml/default/default/layout/ultimate_modulecreator.xml
+app/design/adminhtml/default/default/template/ultimate_modulecreator       app/design/adminhtml/default/default/template/ultimate_modulecreator
+app/etc/modules/Ultimate_ModuleCreator.xml                                 app/etc/modules/Ultimate_ModuleCreator.xml
+app/locale/en_US/Ultimate_ModuleCreator.csv                                app/locale/en_US/Ultimate_ModuleCreator.csv
+js/ultimate_modulecreator.js                                               js/ultimate_modulecreator.js
+skin/adminhtml/default/default/ultimate_modulecreator.css                  skin/adminhtml/default/default/ultimate_modulecreator.css
